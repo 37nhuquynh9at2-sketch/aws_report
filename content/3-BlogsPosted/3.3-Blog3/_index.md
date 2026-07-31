@@ -21,12 +21,6 @@ The key concepts include:
 
 AWS KMS is particularly suitable for systems that require a high level of security, enabling organizations to centrally manage encryption keys, enforce access control, and protect data across multiple AWS services.
 
-## References
-
-- Workshop: https://000033.awsstudygroup.com/
-- Tutorial Video: https://youtu.be/SCZpW-3b5G0?si=fM551VA4uu49_EWJ
-- AWS Documentation: https://docs.aws.amazon.com/kms/
-
 ## Implementation Guide
 
 ### Step 1: Create an Encryption Key in AWS KMS
