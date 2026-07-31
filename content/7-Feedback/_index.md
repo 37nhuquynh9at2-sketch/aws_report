@@ -1,55 +1,62 @@
 ---
-title: "Sharing and Feedback"
+title: "Feedback and Suggestions"
 date: 2024-01-01
 weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> In this section, I would like to share my reflections after participating in the **First Cloud AI Journey** program. The feedback below is provided with the hope of helping the program continue to improve and deliver even greater value to future participants.
+> In this section, you can freely share your personal opinions and experiences during the **First Cloud AI Journey (FCAJ)** program. Your feedback will help the FCAJ team improve future internship and training programs.
 
 ## Overall Evaluation
 
-### 1. Learning and Working Environment
+### 1. Working Environment
 
-The learning environment was friendly, open, and encouraged participants to exchange knowledge with one another. The training sessions and hands-on labs were well organized, making it easy to follow the learning roadmap. In addition, having more networking activities or team-based sessions would further strengthen collaboration and allow participants to learn from each other's experiences.
+The working environment was professional, friendly, and highly supportive. Team members were approachable and willing to help whenever I encountered difficulties. The learning atmosphere encouraged curiosity and continuous improvement, making it easier for interns to adapt to new technologies and workflows.
 
-### 2. Support from Mentors and the Admin Team
+### 2. Support from Mentors and Admin Team
 
-The mentors were always enthusiastic in providing guidance and answering questions throughout the learning process and project development. Instead of simply giving answers, they often guided us toward the right approach so that we could explore and solve problems independently. The admin team also provided comprehensive support with learning materials, announcements, and program-related information, allowing me to focus on learning throughout the internship.
+The mentors provided detailed guidance throughout the internship. Rather than simply giving answers, they encouraged independent thinking and problem-solving. The admin team was also responsive, ensuring that schedules, documents, and event arrangements were well organized.
 
-### 3. Relevance to My Major
+### 3. Relevance Between Assigned Tasks and My Major
 
-The learning content and project were highly relevant to my major in Information Technology, particularly in the areas of Cloud Computing, AWS, and web application development. The program provided an excellent opportunity to apply academic knowledge to a real-world project while gaining a deeper understanding of the software development lifecycle.
+The internship tasks were closely related to my academic background in Information Technology. Besides strengthening my knowledge of software development, I had the opportunity to explore Cloud Computing, AWS services, DevOps, and AI technologies that are widely used in the industry today.
 
-### 4. Learning and Development Opportunities
+### 4. Learning Opportunities and Skill Development
 
-Throughout the program, I had the opportunity to explore a wide range of AWS services, learn how to deploy applications on the cloud, and strengthen my teamwork skills. Beyond technical knowledge, the program also helped me improve my research abilities, time management, and problem-solving skills.
+During the internship, I gained practical experience with AWS services, system architecture, and modern software development practices. I also improved my teamwork, communication, presentation, and problem-solving skills through project work and technical events.
 
-### 5. Teamwork
+### 5. Company Culture and Teamwork
 
-The team members consistently supported one another throughout the project. Everyone was willing to exchange ideas, share experiences, and collaborate in solving challenges. This created a productive working environment and fostered a positive learning atmosphere.
+The company promoted a collaborative and respectful working culture. Team members were open to sharing knowledge and supporting one another. The opportunity to participate in technical workshops, competitions, and community events created an inspiring environment for continuous learning.
 
-### 6. Training Program
+### 6. Internship Benefits and Activities
 
-The learning roadmap was well structured, beginning with fundamental concepts and gradually progressing to practical AWS hands-on labs. Combining theoretical lessons with a real-world project enabled me to better understand how to apply technical knowledge in practice.
+One of the most valuable aspects of the program was the opportunity to attend AWS technical workshops, technology sharing sessions, and networking events with industry experts. These activities allowed interns to gain practical knowledge beyond daily project work and better understand current technology trends.
 
-## Additional Feedback
+---
 
-### What I Appreciated Most
+## Additional Questions
 
-What I appreciated most was the opportunity to explore the AWS ecosystem through practical hands-on labs and apply what I learned to the **Library Management Website** project. This experience gave me a much clearer understanding of how cloud-based applications are developed and deployed.
+### What was the most satisfying part of your internship?
 
-### Areas for Improvement
+The most rewarding experience was participating in real projects while also attending AWS technical events and workshops. These activities broadened my understanding of Cloud Computing, AI, and software architecture, making the internship both practical and inspiring.
 
-In my opinion, the program could include more experience-sharing sessions from mentors or former participants who have worked on previous projects. In addition, increasing the number of discussions and knowledge-sharing activities among different teams would provide participants with more opportunities to learn from one another.
+### What do you think could be improved for future interns?
 
-### Would I Recommend This Program?
+It would be beneficial to organize more hands-on technical workshops or small group mentoring sessions, allowing interns to discuss technical challenges in greater depth and gain more practical experience.
 
-Yes. I would gladly recommend the **First Cloud AI Journey** program to my friends because it provides an excellent environment for learning, developing technical skills, and gaining hands-on experience with cloud technologies and real-world software development practices.
+### Would you recommend this internship program to your friends? Why?
 
-## Suggestions and Expectations
+Yes. I would highly recommend this internship because it provides not only valuable technical knowledge but also opportunities to work with experienced mentors, participate in professional events, and develop both technical and soft skills in a supportive environment.
 
-- Organize more in-depth workshops on system architecture and AWS application deployment.
-- Increase networking and knowledge-sharing activities between mentors and project teams to exchange practical experiences.
-- Introduce more projects with diverse topics so that participants can gain exposure to a wider variety of real-world challenges.
+---
+
+## Suggestions and Future Expectations
+
+- Continue organizing technical workshops and AWS community events covering emerging technologies such as Generative AI, Agentic AI, Cloud Security, and Serverless Computing.
+- Increase opportunities for interns to collaborate across different teams through mini-projects or hackathons.
+- Provide additional hands-on lab sessions for AWS services to reinforce theoretical knowledge with practical experience.
+- I would be happy to participate in future FCAJ programs or community activities to continue improving my technical skills and contribute back to the community.
+
+> Overall, my internship at **First Cloud AI Journey (FCAJ)** was a valuable learning experience. Besides improving my technical knowledge, I developed practical problem-solving skills, gained industry insights, and built a stronger foundation for my future career in Cloud Computing and Artificial Intelligence.
