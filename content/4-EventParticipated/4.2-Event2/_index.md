@@ -6,14 +6,14 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-### Event Objectives
+## Event Objectives
 
 - Provide an engaging technology playground through a competitive AWS quiz competition that encourages active learning and teamwork.
 - Reinforce fundamental knowledge of AWS Cloud Architecture by presenting practical, scenario-based questions.
 - Develop participants' risk management mindset, decision-making ability under time pressure, and collaboration skills.
 - Create networking opportunities among internship teams and students who are passionate about Cloud Computing.
 
-### Participating Teams
+## Participating Teams
 
 - **NGŨ ĐẠI HIỆP**
 - **KTLT**
@@ -24,7 +24,7 @@ pre: " <b> 4.2. </b> "
 - **LIFE LONG LEARNER**
 - **KLKAT**
 
-### Key Highlights
+## Key Highlights
 
 #### Security, Compliance & Operations
 

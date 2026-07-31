@@ -6,14 +6,16 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-### Mục Đích Của Sự Kiện
+# Event Report: "Cloud Architect"
 
-- Mang lại sân chơi công nghệ mới mẻ dưới hình thức thi đấu trắc nghiệm kịch tính, giúp gắn kết các thành viên và duy trì tinh thần chủ động học hỏi.
-- Hệ thống hóa các kiến thức cốt lõi về thiết kế kiến trúc hệ thống trên nền tảng AWS thông qua các câu hỏi tình huống thực tế.
-- Rèn luyện tư duy quản trị rủi ro, khả năng đưa ra quyết định nhanh chóng dưới áp lực thời gian và nâng cao kỹ năng phối hợp đồng đội cho các đội thi.
-- Tạo cơ hội giao lưu, kết nối giữa các nhóm thực tập và cộng đồng sinh viên đam mê Cloud.
+## Event Objectives
 
-### Danh Sách 8 Đội Thi Đấu Tham Gia
+- Provide an engaging technology competition through an exciting AWS quiz format that encourages teamwork and active learning.
+- Reinforce fundamental knowledge of AWS Cloud Architecture through practical, scenario-based questions.
+- Develop participants' risk management mindset, decision-making skills under time pressure, and teamwork abilities.
+- Create networking opportunities among internship teams and students interested in Cloud Computing.
+
+## Participating Teams
 
 - **NGŨ ĐẠI HIỆP**
 - **KTLT**
@@ -24,79 +26,79 @@ pre: " <b> 4.2. </b> "
 - **LIFE LONG LEARNER**
 - **KLKAT**
 
-### Nội Dung Nổi Bật
+## Key Highlights
 
-#### An ninh, Tuân thủ & Quản trị vận hành (Security, Compliance & Operations)
+### Security, Compliance & Operations
 
-- **AWS Artifact:** Tra cứu các chứng chỉ tuân thủ quốc tế (ISO, PCI, SOC) phục vụ kiểm toán.
-- **AWS WAF:** Cấu hình Rate-based Rule để ngăn chặn các cuộc tấn công Layer 7 và lượng truy cập bất thường mà vẫn đảm bảo trải nghiệm người dùng.
-- **Amazon S3 Bucket Policy:** Quản lý quyền truy cập đối với dữ liệu lưu trữ tĩnh.
-- **AWS Systems Manager Patch Manager:** Tự động hóa quy trình vá lỗi bằng Patch Groups và Patch Baselines thông qua EC2 Tags nhằm giảm chi phí vận hành.
+- **AWS Artifact:** Learned how to access international compliance certifications (ISO, PCI, SOC) for auditing and regulatory purposes.
+- **AWS WAF:** Configured Rate-based Rules to mitigate Layer 7 attacks and abnormal traffic while maintaining a smooth user experience.
+- **Amazon S3 Bucket Policy:** Managed access permissions for static storage resources.
+- **AWS Systems Manager Patch Manager:** Automated system patching using Patch Groups and Patch Baselines with EC2 Tags to reduce operational effort.
 
-#### AWS Well-Architected Framework
+### AWS Well-Architected Framework
 
-- Tìm hiểu các trụ cột trong **AWS Well-Architected Framework**.
-- Tập trung vào **Performance Efficiency**, lựa chọn đúng loại tài nguyên và quy mô tài nguyên phù hợp với nhu cầu của hệ thống.
+- Explored the core pillars of the **AWS Well-Architected Framework**.
+- Focused on the **Performance Efficiency** pillar, emphasizing the importance of selecting appropriate resource types and capacities based on application requirements.
 
-#### Cơ sở dữ liệu & Xử lý sự kiện (Database & Event Handling)
+### Database & Event Handling
 
-- **Amazon DynamoDB:** Lựa chọn phù hợp cho các ứng dụng mobile có lưu lượng truy cập lớn nhờ khả năng auto scaling và độ trễ thấp.
-- **DynamoDB Streams + AWS Lambda:** Tự động kích hoạt xử lý khi dữ liệu thay đổi.
-- Phân biệt vai trò của **DynamoDB Streams** và **DAX Cluster** trong từng bài toán thực tế.
+- **Amazon DynamoDB:** Identified as an ideal NoSQL database for mobile applications with rapidly increasing traffic due to its Auto Scaling capability and low latency.
+- **DynamoDB Streams + AWS Lambda:** Learned how to trigger automated processing whenever data changes.
+- Understood the different purposes of **DynamoDB Streams** and **DAX Cluster** in real-world scenarios.
 
-#### Hạ tầng Cloud, Hybrid Architecture & Auto Scaling
+### Cloud Infrastructure, Hybrid Architecture & Auto Scaling
 
-- **AWS Storage Gateway (File Gateway):** Thiết kế Hybrid Cloud kết nối hệ thống On-Premises với AWS thông qua giao thức SMB.
-- **Amazon S3 Lifecycle Rules:** Tự động chuyển dữ liệu sao lưu sang Amazon S3 Glacier để lưu trữ dài hạn và tối ưu chi phí.
-- **AWS Pricing Calculator:** Ước tính chi phí triển khai hạ tầng Cloud trước khi thực hiện.
-- **Amazon EC2 Auto Scaling:** Tự động mở rộng hoặc thu hẹp tài nguyên dựa trên lưu lượng truy cập.
-- **Application Load Balancer (ALB):** Điều hướng lưu lượng bằng Path-based Routing và Host-based Routing.
+- **AWS Storage Gateway (File Gateway):** Designed Hybrid Cloud solutions connecting On-Premises infrastructure with AWS through the SMB protocol.
+- **Amazon S3 Lifecycle Rules:** Automatically moved backup data to Amazon S3 Glacier for long-term archival while optimizing storage costs.
+- **AWS Pricing Calculator:** Estimated infrastructure costs before deploying cloud resources.
+- **Amazon EC2 Auto Scaling:** Automatically adjusted computing capacity based on application traffic.
+- **Application Load Balancer (ALB):** Implemented Path-based Routing and Host-based Routing for flexible traffic distribution.
 
-#### Yếu tố chiến thuật trong cuộc thi
+### Competition Strategies
 
-- **Rủi ro tối thiểu:** Chiến thuật lựa chọn đáp án an toàn nhằm hạn chế mất điểm khi chưa chắc chắn.
-- **Ngôi sao hy vọng:** Lựa chọn thời điểm sử dụng thẻ nhân đôi điểm số để tạo lợi thế trong các câu hỏi quyết định.
+- **Minimum Risk Strategy:** Choosing the safest answer when uncertain to minimize point deductions.
+- **Star Card Strategy:** Selecting the best moment to use the score multiplier for maximum advantage.
 
-### Những Gì Học Được
+## What I Learned
 
-#### Tư Duy Thiết Kế
+### Design Thinking
 
-- **Risk Management & Trade-offs:** Biết đánh giá rủi ro và cân bằng giữa chi phí, hiệu năng và bảo mật khi thiết kế hệ thống.
-- **System Modernization & Automation:** Hiểu cách kết hợp Serverless, Hybrid Storage và các công cụ quản trị tự động để tối ưu vận hành.
+- **Risk Management & Trade-offs:** Learned how to evaluate risks and balance cost, performance, and security when designing cloud architectures.
+- **System Modernization & Automation:** Gained a better understanding of integrating Serverless services, Hybrid Storage, and automated management tools to optimize system operations.
 
-#### Kiến Trúc Kỹ Thuật
+### Technical Architecture
 
-- Phân biệt rõ phạm vi sử dụng của các dịch vụ AWS như **WAF và NACL**, **DynamoDB Streams và DAX**, **ALB và NLB**, **Systems Manager và Custom Scripts**.
-- Hiểu và vận dụng các nguyên tắc trong **AWS Well-Architected Framework** khi thiết kế hệ thống thực tế.
+- Clearly distinguished the appropriate use cases of AWS services such as **AWS WAF vs. Network ACL (NACL)**, **DynamoDB Streams vs. DAX**, **Application Load Balancer (ALB) vs. Network Load Balancer (NLB)**, and **AWS Systems Manager vs. Custom Scripts**.
+- Learned how to apply the principles of the **AWS Well-Architected Framework** to real-world architecture design.
 
-### Trải nghiệm trong event
+## Event Experience
 
-Tham gia gameshow **“Cloud Architect”** với vai trò khán giả là một trải nghiệm thú vị, giúp tôi tiếp cận kiến thức AWS theo hình thức trực quan và sinh động hơn. Một số trải nghiệm nổi bật gồm:
+Although I attended the **"Cloud Architect"** gameshow as an audience member, it was an exciting and valuable learning experience that helped me understand AWS concepts through practical scenarios.
 
-#### Học hỏi qua các câu hỏi tình huống thực tế
+### Learning Through Real-world Scenarios
 
-- Các câu hỏi được xây dựng sát với những bài toán thường gặp trong doanh nghiệp, giúp tôi tự đánh giá mức độ hiểu biết của bản thân.
-- Phần giải thích đáp án từ Ban Tổ chức giúp tôi hiểu rõ vì sao mỗi dịch vụ AWS lại phù hợp với từng tình huống cụ thể.
+- The quiz questions were based on realistic enterprise use cases, allowing me to evaluate my own AWS knowledge.
+- The organizers' detailed explanations helped me understand why each AWS service was the most appropriate solution for a particular scenario.
 
-#### Không khí thi đấu sôi nổi
+### Exciting Competition Atmosphere
 
-- Quan sát quá trình thảo luận và đưa ra quyết định của các đội thi giúp tôi hiểu rõ hơn cách phân tích yêu cầu và lựa chọn giải pháp phù hợp dưới áp lực thời gian.
-- Sự cạnh tranh giữa tám đội thi tạo nên bầu không khí sôi động và truyền thêm động lực học tập.
-- Các chiến thuật như **"Ngôi sao hy vọng"** và **"Rủi ro tối thiểu"** cho thấy tầm quan trọng của việc quản trị rủi ro và đưa ra quyết định đúng thời điểm.
+- Watching the teams analyze questions and make decisions under time pressure provided valuable insights into architectural decision-making.
+- The competition among the eight teams created an energetic atmosphere that motivated me to continue learning.
+- Observing strategies such as the **"Star Card"** and **"Minimum Risk Strategy"** demonstrated the importance of risk assessment and making timely decisions.
 
-#### Giao lưu và kết nối
+### Networking and Knowledge Sharing
 
-- Sự kiện tạo cơ hội trao đổi với các bạn học viên có cùng đam mê về AWS và Cloud Computing.
-- Qua các cuộc trao đổi, tôi học hỏi thêm nhiều kinh nghiệm học tập cũng như cách tiếp cận các bài toán kiến trúc Cloud.
+- The event provided opportunities to interact with other students who share an interest in AWS and Cloud Computing.
+- Through discussions with other participants, I gained additional learning strategies and different approaches to solving cloud architecture problems.
 
-#### Bài học rút ra
+### Lessons Learned
 
-- Các câu hỏi tình huống giúp tôi củng cố kiến thức AWS một cách trực quan và dễ ghi nhớ hơn.
-- Khi thiết kế hệ thống, cần cân nhắc đồng thời các yếu tố về chi phí, hiệu năng, bảo mật và khả năng mở rộng trước khi lựa chọn dịch vụ.
-- Việc phân tích kỹ yêu cầu bài toán và hiểu rõ đặc điểm của từng dịch vụ AWS sẽ giúp đưa ra quyết định chính xác hơn trong các tình huống thực tế.
+- Scenario-based questions made AWS concepts easier to understand and remember than studying theory alone.
+- When designing cloud systems, it is important to consider cost, performance, security, and scalability together before selecting AWS services.
+- Carefully analyzing business requirements and understanding the strengths of each AWS service leads to better architectural decisions in real-world projects.
 
-#### Một số hình ảnh khi tham gia sự kiện
+### Event Photos
 
-* Thêm các hình ảnh của các bạn tại đây
+*Insert your event photos here.*
 
-> Tổng thể, gameshow **Cloud Architect** không chỉ giúp tôi ôn tập và củng cố kiến thức về các dịch vụ AWS mà còn rèn luyện tư duy phân tích, khả năng đánh giá nhiều phương án kiến trúc và cách đưa ra quyết định trong những tình huống thực tế. Đây là một trải nghiệm học tập bổ ích, tạo thêm động lực để tôi tiếp tục nghiên cứu và phát triển kỹ năng trong lĩnh vực Cloud Computing.
+> Overall, the **Cloud Architect** gameshow not only strengthened my understanding of AWS services but also improved my analytical thinking, architectural evaluation skills, and decision-making ability in practical cloud scenarios. It was a rewarding learning experience that motivated me to continue developing my expertise in Cloud Computing.
