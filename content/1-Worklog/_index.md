@@ -12,18 +12,11 @@ Throughout the internship, I learned about important AWS services such as **IAM,
 
 The weekly tasks were carried out as follows:
 
-**Week 1:** [Getting familiar with the First Cloud AI Journey program, learning AWS Cloud fundamentals, creating an AWS Account, configuring IAM, AWS Budgets, and AWS Management Console](1.1-week1/)
-
-**Week 2:** [Learning Amazon VPC and Amazon EC2, practicing AWS server deployment, and finalizing the Library Management Website project topic](1.2-week2/)
-
-**Week 3:** [Learning AWS CLI, Amazon S3, Amazon RDS, CloudWatch, and analyzing the functional requirements of the system](1.3-week3/)
-
-**Week 4:** [Learning AWS storage services, participating in system function analysis, and identifying the components required for development](1.4-week4/)
-
-**Week 5:** [Learning AWS Security, Identity & Compliance services, analyzing system functions, and agreeing on the Frontend interface layout](1.5-week5/)
-
-**Week 6:** [Learning AWS Database services, selecting development technologies, and preparing the programming environment for the project](1.6-week6/)
-
-**Week 7:** [Setting up the development environment, building Frontend interfaces, fixing data display issues, and completing assigned Frontend functionalities](1.7-week7/)
-
-**Week 8:** [Testing the system, fixing interface issues after integration, supporting AWS deployment, and completing project documentation](1.8-week8/)
+* **Week 1:** [Getting started with First Cloud AI Journey, IAM & AWS Budgets setup](1.1-week1/)
+* **Week 2:** [Learning VPC, EC2 & finalizing the Library Management project topic](1.2-week2/)
+* **Week 3:** [Exploring AWS CLI, S3, RDS, CloudWatch & system analysis](1.3-week3/)
+* **Week 4:** [Exploring AWS Storage & identifying development components](1.4-week4/)
+* **Week 5:** [Exploring AWS Security & agreeing on Frontend layout](1.5-week5/)
+* **Week 6:** [Exploring AWS Database & preparing development environment](1.6-week6/)
+* **Week 7:** [Building Frontend interfaces & developing core features](1.7-week7/)
+* **Week 8:** [System testing, bug fixing, AWS deployment & final report](1.8-week8/)

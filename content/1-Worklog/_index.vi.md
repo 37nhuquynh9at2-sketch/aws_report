@@ -12,18 +12,11 @@ Trong quá trình thực tập, mình được tìm hiểu các dịch vụ quan
 
 Nội dung công việc trong từng tuần được thực hiện như sau:
 
-**Tuần 1:** [Làm quen với chương trình First Cloud AI Journey, tìm hiểu AWS Cloud, tạo AWS Account, thiết lập IAM, AWS Budgets và AWS Management Console](1.1-week1/)
-
-**Tuần 2:** [Tìm hiểu Amazon VPC, Amazon EC2, thực hành triển khai máy chủ trên AWS và thống nhất đề tài Website Quản lý thư viện](1.2-week2/)
-
-**Tuần 3:** [Tìm hiểu AWS CLI, Amazon S3, Amazon RDS, CloudWatch và phân tích yêu cầu chức năng của hệ thống](1.3-week3/)
-
-**Tuần 4:** [Tìm hiểu các dịch vụ lưu trữ trên AWS, phân tích chức năng hệ thống và xác định các thành phần cần xây dựng](1.4-week4/)
-
-**Tuần 5:** [Tìm hiểu các dịch vụ Security, Identity & Compliance trên AWS, phân tích chức năng và thống nhất bố cục giao diện Frontend](1.5-week5/)
-
-**Tuần 6:** [Tìm hiểu các dịch vụ Database trên AWS, thống nhất công nghệ phát triển và chuẩn bị môi trường lập trình cho dự án](1.6-week6/)
-
-**Tuần 7:** [Thiết lập môi trường phát triển, xây dựng giao diện Frontend, xử lý lỗi hiển thị dữ liệu và hoàn thiện các chức năng được phân công](1.7-week7/)
-
-**Tuần 8:** [Kiểm thử hệ thống, xử lý lỗi giao diện sau tích hợp, phối hợp triển khai trên AWS và hoàn thiện tài liệu báo cáo](1.8-week8/)
+* **Tuần 1:** [Làm quen chương trình, tạo account AWS, cài đặt IAM & Budgets](1.1-week1/)
+* **Tuần 2:** [Tìm hiểu VPC, EC2 và chốt đề tài Website Quản lý thư viện](1.2-week2/)
+* **Tuần 3:** [Tìm hiểu CLI, S3, RDS, CloudWatch & phân tích yêu cầu hệ thống](1.3-week3/)
+* **Tuần 4:** [Tìm hiểu AWS Storage & xác định các thành phần cần phát triển](1.4-week4/)
+* **Tuần 5:** [Tìm hiểu AWS Security & thống nhất giao diện Frontend](1.5-week5/)
+* **Tuần 6:** [Tìm hiểu AWS Database & chuẩn bị môi trường lập trình](1.6-week6/)
+* **Tuần 7:** [Phát triển giao diện Frontend & hoàn thiện các chức năng](1.7-week7/)
+* **Tuần 8:** [Kiểm thử, sửa lỗi, phối hợp deploy lên AWS & hoàn thiện báo cáo](1.8-week8/)
