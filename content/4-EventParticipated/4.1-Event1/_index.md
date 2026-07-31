@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Event Report (June 13, 2026)
+# Summary Report (June 13, 2026)
 
 ### Event Objectives
 
