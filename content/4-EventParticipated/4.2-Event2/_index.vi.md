@@ -1,10 +1,11 @@
 ---
-title: "Event 2: Cloud Architect"
+title: "Event 2"
 date: 2026-06-20
 weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
+# Event Report: "Cloud Architect"
 
 ### Mục Đích Của Sự Kiện
 
