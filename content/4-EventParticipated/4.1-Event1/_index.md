@@ -1,6 +1,6 @@
 ---
 title: "Event 1"
-date: 2026-06-12
+date: 2026-06-13
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
@@ -8,7 +8,7 @@ pre: " <b> 4.1. </b> "
 
 # Event Report (June 13, 2026)
 
-## Event Objectives
+### Event Objectives
 
 The event was organized to help students and early-career engineers:
 
@@ -17,18 +17,18 @@ The event was organized to help students and early-career engineers:
 - Connect with the technology community through real-world experiences shared by engineers from technology companies and AWS Partners.
 - Develop systems thinking, professional working culture, and problem-solving skills in enterprise environments.
 
-## Speakers
+### Speakers
 
 - **Trong H. Truong** – DevOps Engineer @ Endava Vietnam.
 - **Danh Hoàng Hiếu Nghị** – AI Engineer, AWS Community Builder, AWS Student Builder Group Leader.
 - **Mr. Dat Pham** – Data Analytics Engineer with experience at Kamereo and Colgate-Palmolive.
 - **Mr. Cường Nguyễn** – Process Engineer.
 
-## Key Highlights
+### Key Highlights
 
-### DevOps – Real-world Responsibilities and Career Opportunities
+#### DevOps – Real-world Responsibilities and Career Opportunities
 
-#### Understanding the DevOps Role
+##### Understanding the DevOps Role
 
 The presentation highlighted that DevOps is far more than building CI/CD pipelines or managing Docker and Kubernetes. It also involves solving operational challenges throughout the software development lifecycle.
 
@@ -40,7 +40,7 @@ Common DevOps responsibilities include:
 - Optimizing cloud infrastructure costs.
 - Supporting continuous system operations.
 
-#### Essential Knowledge and Skills
+##### Essential Knowledge and Skills
 
 Core technical foundations include:
 
@@ -60,7 +60,7 @@ In addition to technical expertise, DevOps engineers should develop:
 
 ---
 
-### The Journey from Student to AWS Partner
+#### The Journey from Student to AWS Partner
 
 The speaker shared an inspiring career roadmap from being a student to becoming an AWS professional:
 
@@ -89,9 +89,9 @@ These programs help students build a solid cloud foundation through topics such 
 
 ---
 
-### Real-world Experience of a Data Analytics Engineer
+#### Real-world Experience of a Data Analytics Engineer
 
-#### Data Analytics in Business
+##### Data Analytics in Business
 
 The speakers explained how Data Analytics is applied across different industries.
 
@@ -107,7 +107,7 @@ The speakers explained how Data Analytics is applied across different industries
 - Optimizing manufacturing costs.
 - Supporting digital transformation initiatives.
 
-#### Essential Skills
+##### Essential Skills
 
 A successful Data Analytics Engineer should develop:
 
@@ -116,7 +116,7 @@ A successful Data Analytics Engineer should develop:
 - Data Storytelling
 - Problem Solving
 
-#### Career Development Model
+##### Career Development Model
 
 The proposed career roadmap consists of five stages:
 
@@ -128,9 +128,9 @@ The proposed career roadmap consists of five stages:
 
 ---
 
-### Recruitment Process and Corporate Culture
+#### Recruitment Process and Corporate Culture
 
-#### Recruitment Process in Multinational Companies
+##### Recruitment Process in Multinational Companies
 
 A typical recruitment process consists of four stages:
 
@@ -153,7 +153,7 @@ A typical recruitment process consists of four stages:
 
 - Evaluation of alignment with the company's culture and core values.
 
-#### Workplace Culture
+##### Workplace Culture
 
 Two important organizational cultures were highlighted.
 
@@ -168,23 +168,23 @@ Two important organizational cultures were highlighted.
 
 ---
 
-## What I Learned
+### What I Learned
 
-### Technical Knowledge
+#### Technical Knowledge
 
 - Gained a better understanding of the real responsibilities of DevOps Engineers.
 - Learned an effective Cloud learning roadmap based on hands-on experience.
 - Understood how Data Analytics supports business decision-making.
 - Recognized the importance of Cloud, AI, and Data Analytics in digital transformation.
 
-### Professional Mindset
+#### Professional Mindset
 
 - Focus on understanding the underlying problems rather than simply using tools.
 - Develop systems thinking when solving technical challenges.
 - Combine technical expertise with communication and teamwork skills.
 - Build a strong portfolio through practical projects.
 
-## Practical Applications
+### Practical Applications
 
 The knowledge gained from this event can be applied in future academic and personal projects by:
 
@@ -193,7 +193,7 @@ The knowledge gained from this event can be applied in future academic and perso
 - Focusing on building practical projects rather than learning only theoretical concepts.
 - Using AI as a productivity tool while maintaining critical thinking and independent problem-solving.
 
-## Event Experience
+### Event Experience
 
 Attending this event gave me valuable insights into today's technology industry, covering Cloud Computing, DevOps practices, and Data Analytics applications in modern enterprises.
 
@@ -201,7 +201,7 @@ Through the speakers' presentations, I gained a better understanding of industry
 
 The event also reminded me that learning technology is not only about mastering tools but also about understanding their underlying principles, applying them to real-world problems, and continuously improving through lifelong learning.
 
-### Lessons Learned
+#### Lessons Learned
 
 - Build a strong technical foundation before learning advanced technologies.
 - Hands-on projects are the most effective way to improve technical skills.
@@ -209,6 +209,6 @@ The event also reminded me that learning technology is not only about mastering 
 - AI can significantly improve productivity when used responsibly.
 - Participating in technology communities provides valuable knowledge, networking opportunities, and career development.
 
-### Event Photos
+#### Event Photos
 
 *Insert your event photos here.*
