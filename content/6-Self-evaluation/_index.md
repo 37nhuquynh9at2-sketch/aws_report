@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship in the First Cloud AI Journey (FCJ Workforce) program from June 1, 2026 to July 31, 2026, I had the opportunity to learn fundamental AWS concepts while actively participating in the development of a real-world team project, the Library Management Website, as a Frontend Developer.
+During my internship in the First Cloud AI Journey (FCJ Workforce) program from June 8, 2026 to July 31, 2026, I had the opportunity to learn fundamental AWS concepts while actively participating in the development of a real-world team project, the Library Management Website, as a Frontend Developer.
 
 I was responsible for designing and implementing the entire user interface of the system, including the book listing page, book details page, borrowing and returning management, user management pages, and resolving issues that arose during data integration and deployment to the AWS environment. Through this project, I significantly improved my skills in building responsive user interfaces with Django Templates and Bootstrap, debugging and troubleshooting integration issues, and deploying web applications on AWS services such as Amazon EC2, Docker, Amazon RDS, and Amazon S3.
 

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian tham gia chương trình thực tập **First Cloud AI Journey (FCJ Workforce)** từ **01/06/2026** đến **31/07/2026**, tôi đã có cơ hội học hỏi kiến thức nền tảng về AWS song song với việc trực tiếp tham gia xây dựng một dự án thực tế cùng nhóm — **Website Quản lý thư viện**, với vai trò **Frontend Developer**.
+Trong suốt thời gian tham gia chương trình thực tập **First Cloud AI Journey (FCJ Workforce)** từ **08/06/2026** đến **31/07/2026**, tôi đã có cơ hội học hỏi kiến thức nền tảng về AWS song song với việc trực tiếp tham gia xây dựng một dự án thực tế cùng nhóm — **Website Quản lý thư viện**, với vai trò **Frontend Developer**.
  
 Tôi phụ trách xây dựng và hoàn thiện toàn bộ giao diện người dùng của hệ thống: từ trang danh sách sách, chi tiết sách, quản lý mượn/trả, đến các trang quản lý người dùng và xử lý các lỗi phát sinh khi tích hợp dữ liệu thật cũng như khi triển khai lên môi trường AWS. Qua đó, tôi đã cải thiện đáng kể các kỹ năng về xây dựng giao diện với Django Template và Bootstrap, debug và xử lý lỗi tích hợp, cũng như kiến thức thực hành triển khai ứng dụng trên nền tảng Cloud (EC2, Docker, RDS, S3).
 
