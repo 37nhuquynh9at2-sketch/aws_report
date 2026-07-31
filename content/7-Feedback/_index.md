@@ -38,15 +38,15 @@ In addition to technical training sessions, the program organized various worksh
 
 ## Additional Questions
 
-** What satisfied you the most during the program? **
+**What satisfied you the most during the program?**
 
 I was most satisfied with the opportunity to gain practical knowledge through workshops, technical events, and hands-on projects. The program also gave me the chance to interact with mentors and peers who shared similar interests, helping me broaden both my knowledge and experience.
 
-** What do you think the program could improve? **
+**What do you think the program could improve?**
 
 I hope the program can organize more networking activities between participants and industry professionals so that learners have more opportunities to exchange experiences, expand their professional networks, and learn from one another.
 
-** Would you recommend this program to your friends? **
+**Would you recommend this program to your friends?**
 
 Yes. I would definitely recommend First Cloud AI Journey because it provides practical knowledge, valuable learning opportunities from experienced professionals, and a positive learning community. The program not only strengthens technical skills but also helps participants develop soft skills and gain clearer career direction.
 

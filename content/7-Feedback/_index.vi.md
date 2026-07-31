@@ -38,15 +38,15 @@ Bên cạnh các buổi học chuyên môn, chương trình còn tổ chức nhi
 
 ## Một số câu hỏi khác
 
-** Điều em hài lòng nhất trong quá trình tham gia chương trình **
+**Điều em hài lòng nhất trong quá trình tham gia chương trình**
 
 Mình hài lòng vì được học hỏi nhiều kiến thức thực tế thông qua các workshop, sự kiện chuyên môn và các dự án. Chương trình cũng tạo cơ hội để em trao đổi với mentor và các bạn cùng định hướng, giúp em mở rộng kiến thức và kinh nghiệm.
 
-** Điều em mong chương trình có thể cải thiện **
+**Điều em mong chương trình có thể cải thiện**
 
 Em mong chương trình có thêm nhiều hoạt động giao lưu giữa học viên và các anh chị trong ngành để mọi người có cơ hội trao đổi kinh nghiệm, mở rộng mối quan hệ và học hỏi lẫn nhau.
 
-** Em có sẵn sàng giới thiệu chương trình cho bạn bè không? **
+**Em có sẵn sàng giới thiệu chương trình cho bạn bè không?**
 
 Có. Em sẵn sàng giới thiệu First Cloud AI Journey cho bạn bè vì đây là chương trình mang lại nhiều kiến thức thực tế, cơ hội học hỏi từ các chuyên gia và môi trường cộng đồng rất tích cực. Chương trình không chỉ giúp nâng cao kiến thức chuyên môn mà còn hỗ trợ học viên phát triển kỹ năng mềm và định hướng nghề nghiệp rõ ràng hơn.
 
