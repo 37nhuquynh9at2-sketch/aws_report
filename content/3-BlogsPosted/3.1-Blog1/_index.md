@@ -22,9 +22,6 @@ The key concepts include:
 
 This solution is particularly well suited for systems requiring high availability, enabling organizations to automate backup operations, minimize the risk of data loss, and ensure rapid recovery in the event of system failures.
 
-## References
-
-- Workshop: https://000133.awsstudygroup.com/
 
 ## Implementation Guide
 
@@ -68,3 +65,15 @@ This solution is particularly well suited for systems requiring high availabilit
 - Verified data recovery capability after every backup operation.
 - Reduced manual operations through Infrastructure as Code.
 - Improved data protection while optimizing operational costs.
+
+#### Blog Photos
+
+![](/images/3-BlogsPosted/blog3.jpg)
+
+## References
+
+- Workshop: https://000133.awsstudygroup.com/
+
+## Link post
+
+https://www.facebook.com/share/p/1EEHwMujCD/

@@ -22,11 +22,6 @@ Các điểm chính cần nắm:
 AWS KMS đặc biệt phù hợp với các hệ thống yêu cầu mức độ bảo mật cao, giúp doanh nghiệp quản lý tập trung các khóa mã hóa, kiểm soát quyền truy cập và bảo vệ dữ liệu trên nhiều dịch vụ AWS.
 
 
-## Nguồn tham khảo
-
-- Workshop: https://000033.awsstudygroup.com/
-- Video hướng dẫn: https://youtu.be/SCZpW-3b5G0?si=fM551VA4uu49_EWJ
-- AWS Documentation: https://docs.aws.amazon.com/kms/
 
 ## Hướng dẫn thực hiện
 
@@ -67,3 +62,14 @@ AWS KMS đặc biệt phù hợp với các hệ thống yêu cầu mức độ 
 - Biết cách cấu hình mã hóa Amazon S3 bằng **AWS KMS**.
 - Hiểu được mối quan hệ giữa **IAM**, **Amazon S3** và **AWS KMS** trong việc kiểm soát quyền truy cập dữ liệu.
 - Biết cách sử dụng **AWS CloudTrail** để theo dõi lịch sử sử dụng khóa mã hóa.
+
+#### Hình ảnh bài đăng
+
+![](/images/3-BlogsPosted/blog2.jpg)
+
+## Nguồn tham khảo
+
+- Workshop: https://000033.awsstudygroup.com/
+- Video hướng dẫn: https://youtu.be/SCZpW-3b5G0?si=fM551VA4uu49_EWJ
+- AWS Documentation: https://docs.aws.amazon.com/kms/
+

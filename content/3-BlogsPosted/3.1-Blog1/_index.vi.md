@@ -23,12 +23,6 @@ Các điểm chính cần nắm:
 
 Giải pháp này đặc biệt phù hợp với các hệ thống yêu cầu tính sẵn sàng cao, giúp doanh nghiệp tự động hóa quy trình sao lưu, giảm thiểu rủi ro mất dữ liệu và đảm bảo khả năng khôi phục nhanh chóng khi xảy ra sự cố.
 
-
-
-## Nguồn tham khảo
-
-- Workshop: https://000133.awsstudygroup.com/
-
 ## Hướng dẫn thực hiện
 
 ### Bước 1: Chuẩn bị hạ tầng
@@ -71,3 +65,15 @@ Giải pháp này đặc biệt phù hợp với các hệ thống yêu cầu t�
 - Kiểm tra khả năng khôi phục dữ liệu sau mỗi lần sao lưu.
 - Giảm thiểu thao tác thủ công nhờ Infrastructure as Code.
 - Nâng cao khả năng bảo vệ dữ liệu và tối ưu chi phí vận hành.
+
+#### Hình ảnh bài đăng
+
+![](/images/3-BlogsPosted/blog3.jpg)
+
+## Nguồn tham khảo
+
+- Workshop: https://000133.awsstudygroup.com/
+
+## Link bài đăng
+
+https://www.facebook.com/share/p/1EEHwMujCD/
