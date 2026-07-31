@@ -144,6 +144,6 @@ Watching the four project demonstrations during **Agentic AI Build Week** was bo
 
 ### Event Photos
 
-* Add your event photos here.
+![](/images/4-Event/event3.jpg)
 
 > Overall, the event provided not only valuable technical knowledge about Agentic AI on AWS but also demonstrated the importance of transforming ideas into practical solutions through thoughtful architecture and effective execution. It was an inspiring experience that strengthened my understanding of modern AI engineering while motivating me to continue exploring Agentic AI and AWS technologies.

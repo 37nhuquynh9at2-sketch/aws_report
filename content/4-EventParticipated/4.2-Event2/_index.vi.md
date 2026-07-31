@@ -97,6 +97,6 @@ Tham gia gameshow **“Cloud Architect”** với vai trò khán giả là một
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-* Thêm các hình ảnh của các bạn tại đây
+![](/images/4-Event/event2.jpg)
 
 > Tổng thể, gameshow **Cloud Architect** không chỉ giúp tôi ôn tập và củng cố kiến thức về các dịch vụ AWS mà còn rèn luyện tư duy phân tích, khả năng đánh giá nhiều phương án kiến trúc và cách đưa ra quyết định trong những tình huống thực tế. Đây là một trải nghiệm học tập bổ ích, tạo thêm động lực để tôi tiếp tục nghiên cứu và phát triển kỹ năng trong lĩnh vực Cloud Computing.

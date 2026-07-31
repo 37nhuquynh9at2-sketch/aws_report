@@ -211,4 +211,4 @@ Ngoài ra, sự kiện cũng giúp tôi nhận thức được rằng việc h�
 
 #### Một Số Hình Ảnh Khi Tham Gia Sự Kiện
 
-Thêm hình ảnh tham gia sự kiện tại đây.
+![](/images/4-Event/event1.jpg)

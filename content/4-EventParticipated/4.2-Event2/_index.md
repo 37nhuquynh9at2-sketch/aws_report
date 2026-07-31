@@ -99,6 +99,6 @@ Although I attended the **"Cloud Architect"** gameshow as an audience member, it
 
 #### Event Photos
 
-*Insert your event photos here.*
+![](/images/4-Event/event2.jpg)
 
 > Overall, the **Cloud Architect** gameshow not only strengthened my understanding of AWS services but also improved my analytical thinking, architectural evaluation skills, and decision-making ability in practical cloud scenarios. It was a rewarding learning experience that motivated me to continue developing my expertise in Cloud Computing.

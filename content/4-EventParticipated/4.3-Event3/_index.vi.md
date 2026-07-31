@@ -121,6 +121,6 @@ pre: " <b> 4.3. </b> "
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-* Thêm các hình ảnh của các bạn tại đây
+![](/images/4-Event/event3.jpg)
 
 > Tổng thể, sự kiện không chỉ mang đến kiến thức kỹ thuật về AI Agentic trên AWS mà còn cho thấy tinh thần "ý tưởng đi cùng thực thi" – từ một bài toán thực tế, đến kiến trúc hợp lý, và cuối cùng là một sản phẩm demo được trước đông đảo người tham dự.
