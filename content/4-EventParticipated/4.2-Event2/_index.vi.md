@@ -5,7 +5,7 @@ weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
-# Event Report: "Cloud Architect"
+# Bài thu hoạch "Cloud Architect"
 
 ### Mục Đích Của Sự Kiện
 

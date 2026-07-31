@@ -21,7 +21,7 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được
 | 2   | **Khả năng học hỏi**                | Tiếp thu kiến thức mới, học hỏi nhanh                                                            | ☐   | ✅   | ☐          |
 | 3   | **Chủ động**                        | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn                                                  | ☐   | ✅   | ☐          |
 | 4   | **Tinh thần trách nhiệm**           | Hoàn thành công việc đúng hạn, đảm bảo chất lượng                                                | ☐   | ✅   | ☐          |
-| 5   | **Kỷ luật**                         | Tuân thủ giờ giấc, nội quy, quy trình làm việc                                                   | ☐   | ☐   | ☐          |
+| 5   | **Kỷ luật**                         | Tuân thủ giờ giấc, nội quy, quy trình làm việc                                                   | ☐   | ✅   | ☐          |
 | 6   | **Tính cầu tiến**                   | Sẵn sàng nhận feedback và cải thiện bản thân                                                     | ✅   | ☐   | ☐          |
 | 7   | **Giao tiếp**                       | Trình bày ý tưởng, báo cáo công việc rõ ràng                                                     | ✅   | ☐   | ☐          |
 | 8   | **Hợp tác nhóm**                    | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm                                                 | ☐   | ☐   | ✅          |
@@ -32,6 +32,6 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được
 
 ### Cần cải thiện
 
-* Nâng cao tính kỹ luật, chấp hành nghiêm chỉnh nội quy của công ty hoặc bất kỳ trong một tổ chức nào
-* Cải thiện trong cách tư duy giải quyết vấn đề
-* Học cách giao tiếp tốt hơn trong giao tiếp hằng ngày và trong công việc, xử lý tình huống
+* Cải thiện kỹ năng làm việc nhóm, chủ động kết nối và phối hợp chặt chẽ với các thành viên thay vì chỉ tập trung vào nhiệm vụ cá nhân
+* Nâng cao tinh thần trách nhiệm và sự chủ động, mạnh dạn tìm tòi và đề xuất các giải pháp kỹ thuật mới đóng góp cho dự án
+* Xây dựng phương pháp tự học hiệu quả, chú trọng đào sâu chuyên môn và liên tục cập nhật công nghệ mới để tối ưu hóa chất lượng công việc

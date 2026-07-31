@@ -17,9 +17,9 @@ pre: " <b> 1.7. </b> "
 | Day | Tasks | Start Date | Completion Date | References |
 | --- | --- | --- | --- | --- |
 | 2 | - Initialize GitHub Repository with the team <br> - Set up development branches and source code management workflow <br> - Check Docker Desktop compatibility issues and agree on the local development approach <br> - Set up the development environment and verify project execution on the personal computer | 20/07/2026 | 20/07/2026 | Team Discussion |
-| 3 | - Debug the issue of book cover images not displaying <br> - Collaborate to add an image URL field to the model and resolve migration errors <br> - Fix errors in the CSV data import script | 21/07/2026 | 21/07/2026 | |
-| 4 | - Improve the system interface <br> - Perform: <br>&emsp;+ Adjust book card colors and borders <br>&emsp;+ Debug the delete confirmation modal issue caused by CSS stacking context conflicts | 22/07/2026 | 22/07/2026 | |
-| 5 | - Develop the "Update Fine Fee" feature interface <br> - Implement: <br>&emsp;+ Fine list page <br>&emsp;+ Fine fee update form <br>&emsp;+ Validate data handling when changing fee amounts | 23/07/2026 | 23/07/2026 | |
+| 3 | - Debug the issue of book cover images not displaying <br> - Collaborate to add an image URL field to the model and resolve migration errors <br> - Fix errors in the CSV data import script | 21/07/2026 | 21/07/2026 | Team Discussion |
+| 4 | - Improve the system interface <br> - Perform: <br>&emsp;+ Adjust book card colors and borders <br>&emsp;+ Debug the delete confirmation modal issue caused by CSS stacking context conflicts | 22/07/2026 | 22/07/2026 | Team Discussion |
+| 5 | - Develop the "Update Fine Fee" feature interface <br> - Implement: <br>&emsp;+ Fine list page <br>&emsp;+ Fine fee update form <br>&emsp;+ Validate data handling when changing fee amounts | 23/07/2026 | 23/07/2026 | Team Discussion |
 | 6 | - Complete assigned Frontend interfaces <br> - Check data display and compatibility between pages <br> - Participate in Sprint Review to report progress | 24/07/2026 | 24/07/2026 | Team Discussion |
 
 ### Results achieved in Week 7:

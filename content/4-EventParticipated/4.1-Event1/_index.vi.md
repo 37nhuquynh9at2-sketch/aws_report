@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Báo cáo sự kiện (13/06/2026)
+# Bài thu hoạch Saturday Meet up! (13/06/2026)
 
 ### Mục Đích Của Sự Kiện
 

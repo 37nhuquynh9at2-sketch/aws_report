@@ -20,8 +20,8 @@ pre: " <b> 1.3. </b> "
 | 2 | - Tìm hiểu AWS CLI <br> - Thực hành: <br>&emsp;+ Cài đặt AWS CLI <br>&emsp;+ Cấu hình Access Key <br>&emsp;+ Thực hiện các lệnh AWS CLI cơ bản | 22/06/2026 | 22/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 3 | - Tìm hiểu Amazon S3 <br> - Thực hành: <br>&emsp;+ Tạo Bucket <br>&emsp;+ Upload Object <br>&emsp;+ Cấu hình Static Website Hosting | 23/06/2026 | 23/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 4 | - Tìm hiểu Amazon RDS <br> - Thực hành tạo Database và kết nối đến hệ thống | 24/06/2026 | 24/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 5 | - Cùng nhóm phân tích nghiệp vụ hệ thống Quản lý thư viện <br>&emsp;+ Khảo sát quy trình quản lý sách <br>&emsp;+ Quy trình mượn/trả sách <br>&emsp;+ Quy trình quản lý độc giả <br> - Xác định các Actor của hệ thống | 25/06/2026 | 25/06/2026 | Team Discussion |
-| 6 | - Đóng góp xây dựng Software Requirement Specification (SRS): liệt kê các màn hình Frontend cần có cho từng Actor (Student, Librarian) <br> - Họp nhóm review kết quả phân tích | 26/06/2026 | 26/06/2026 | Team Discussion |
+| 5 | - Cùng nhóm phân tích nghiệp vụ hệ thống Quản lý thư viện <br>&emsp;+ Khảo sát quy trình quản lý sách <br>&emsp;+ Quy trình mượn/trả sách <br>&emsp;+ Quy trình quản lý độc giả <br> - Xác định các Actor của hệ thống | 25/06/2026 | 25/06/2026 | Thảo luận nhóm |
+| 6 | - Đóng góp xây dựng Software Requirement Specification (SRS): liệt kê các màn hình Frontend cần có cho từng Actor (Student, Librarian) <br> - Họp nhóm review kết quả phân tích | 26/06/2026 | 26/06/2026 | Thảo luận nhóm |
 
 ### Kết quả đạt được tuần 3:
 

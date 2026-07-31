@@ -18,7 +18,7 @@ Thành lập nhóm và xác định vai trò Frontend Developer trong dự án.
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Làm quen với chương trình First Cloud AI Journey <br> - Làm quen với các thành viên trong nhóm | 08/06/2026 | 08/06/2026 | First Cloud AI Journey |
+| 2 | - Làm quen với chương trình First Cloud AI Journey <br> - Làm quen với các thành viên trong nhóm | 08/06/2026 | 08/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 3 | - Tạo AWS Account <br> - Thiết lập AWS Budgets để theo dõi chi phí sử dụng <br> - Tìm hiểu AWS Support | 09/06/2026 | 09/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 4 | - Tìm hiểu AWS IAM <br> - Thực hành: <br>&emsp;+ Tạo IAM User <br>&emsp;+ Tạo IAM Group <br>&emsp;+ Thiết lập MFA <br>&emsp;+ Tìm hiểu IAM Policy | 10/06/2026 | 10/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 5 | - Làm quen với AWS Management Console <br> - Họp nhóm thảo luận định hướng dự án | 11/06/2026 | 11/06/2026 | https://cloudjourney.awsstudygroup.com/ |

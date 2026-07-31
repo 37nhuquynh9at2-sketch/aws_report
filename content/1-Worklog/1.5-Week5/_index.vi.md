@@ -19,9 +19,9 @@ pre: " <b> 1.5. </b> "
 | --- | --- | --- | --- | --- |
 | 2 | - Học Module 05: Security, Identity & Compliance <br>&emsp;+ IAM nâng cao <br>&emsp;+ AWS Organizations <br>&emsp;+ AWS KMS <br>&emsp;+ AWS Security Hub | 06/07/2026 | 06/07/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 3 | - Thực hành Module 05 <br> - Thực hiện: <br>&emsp;+ Tạo IAM Policy <br>&emsp;+ Quản lý User và Role <br>&emsp;+ Tìm hiểu Security Hub | 07/07/2026 | 07/07/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Tham gia phân tích chức năng hệ thống Quản lý thư viện <br> - Xác định thông tin cần hiển thị trên từng màn hình | 08/07/2026 | 08/07/2026 | Team Discussion |
-| 5 | - Thảo luận thiết kế giao diện với nhóm <br> - Xây dựng bố cục các màn hình chính của hệ thống <br>&emsp;+ Trang đăng nhập <br>&emsp;+ Trang danh sách sách <br>&emsp;+ Trang chi tiết sách <br>&emsp;+ Trang quản lý người dùng | 09/07/2026 | 09/07/2026 | Team Discussion |
-| 6 | - Review giao diện và thống nhất hướng phát triển Frontend <br> - Chuẩn bị cấu trúc giao diện và các thành phần cần triển khai trong giai đoạn tiếp theo | 10/07/2026 | 10/07/2026 | Team Discussion |
+| 4 | - Tham gia phân tích chức năng hệ thống Quản lý thư viện <br> - Xác định thông tin cần hiển thị trên từng màn hình | 08/07/2026 | 08/07/2026 | Thảo luận nhóm |
+| 5 | - Thảo luận thiết kế giao diện với nhóm <br> - Xây dựng bố cục các màn hình chính của hệ thống <br>&emsp;+ Trang đăng nhập <br>&emsp;+ Trang danh sách sách <br>&emsp;+ Trang chi tiết sách <br>&emsp;+ Trang quản lý người dùng | 09/07/2026 | 09/07/2026 | Thảo luận nhóm |
+| 6 | - Review giao diện và thống nhất hướng phát triển Frontend <br> - Chuẩn bị cấu trúc giao diện và các thành phần cần triển khai trong giai đoạn tiếp theo | 10/07/2026 | 10/07/2026 | Thảo luận nhóm |
 
 ### Kết quả đạt được tuần 5:
 

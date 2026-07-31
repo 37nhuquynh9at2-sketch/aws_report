@@ -21,7 +21,7 @@ pre: " <b> 1.2. </b> "
 | 3 | - Thực hành triển khai VPC <br> - Cấu hình Security Group và Network ACL | 16/06/2026 | 16/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 4 | - Tìm hiểu Amazon EC2 <br>&emsp;+ Instance <br>&emsp;+ AMI <br>&emsp;+ EBS <br>&emsp;+ Elastic IP | 17/06/2026 | 17/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 5 | - Thảo luận cùng các thành viên, thống nhất chọn đề tài **Website Quản lý thư viện** <br> - Xác định mục tiêu, phạm vi và các chức năng chính của hệ thống | 18/06/2026 | 18/06/2026 | Meeting |
-| 6 | - Cùng nhóm xây dựng Proposal cho dự án <br>&emsp;+ Giới thiệu đề tài <br>&emsp;+ Mục tiêu thực hiện <br>&emsp;+ Phạm vi dự án <br>&emsp;+ Kế hoạch triển khai <br> - Góp ý phần giao diện dự kiến để đưa vào Proposal | 19/06/2026 | 19/06/2026 | Team Discussion |
+| 6 | - Cùng nhóm xây dựng Proposal cho dự án <br>&emsp;+ Giới thiệu đề tài <br>&emsp;+ Mục tiêu thực hiện <br>&emsp;+ Phạm vi dự án <br>&emsp;+ Kế hoạch triển khai <br> - Góp ý phần giao diện dự kiến để đưa vào Proposal | 19/06/2026 | 19/06/2026 | Thảo luận nhóm |
 
 ### Kết quả đạt được tuần 2:
 

@@ -18,9 +18,9 @@ pre: " <b> 1.4. </b> "
 | --- | --- | --- | --- | --- |
 | 2 | - Học Module 04: Storage Services <br>&emsp;+ Amazon S3 nâng cao <br>&emsp;+ Storage Class <br>&emsp;+ Glacier <br>&emsp;+ Storage Gateway | 29/06/2026 | 29/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 3 | - Thực hành Module 04 <br>&emsp;+ VM Import/Export <br>&emsp;+ Amazon FSx <br>&emsp;+ Quản lý Storage Quotas | 30/06/2026 | 30/06/2026 | https://cloudjourney.awsstudygroup.com/ |
-| 4 | - Cùng nhóm xác định các chức năng của hệ thống <br>&emsp;+ Quản lý sách <br>&emsp;+ Quản lý độc giả <br>&emsp;+ Mượn/Trả sách <br>&emsp;+ Quản lý tài khoản <br> - Phân loại chức năng theo từng Actor | 01/07/2026 | 01/07/2026 | Team Discussion |
-| 5 | - Thảo luận thiết kế giao diện hệ thống <br> - Xác định các màn hình chính cần xây dựng <br>&emsp;+ Trang đăng nhập <br>&emsp;+ Trang quản lý sách <br>&emsp;+ Trang quản lý độc giả <br>&emsp;+ Trang quản lý mượn trả | 02/07/2026 | 02/07/2026 | Team Discussion |
-| 6 | - Review lại yêu cầu hệ thống cùng nhóm <br> - Điều chỉnh phạm vi chức năng và chuẩn bị cho giai đoạn thiết kế giao diện, phát triển Frontend | 03/07/2026 | 03/07/2026 | Team Discussion |
+| 4 | - Cùng nhóm xác định các chức năng của hệ thống <br>&emsp;+ Quản lý sách <br>&emsp;+ Quản lý độc giả <br>&emsp;+ Mượn/Trả sách <br>&emsp;+ Quản lý tài khoản <br> - Phân loại chức năng theo từng Actor | 01/07/2026 | 01/07/2026 | Thảo luận nhóm |
+| 5 | - Thảo luận thiết kế giao diện hệ thống <br> - Xác định các màn hình chính cần xây dựng <br>&emsp;+ Trang đăng nhập <br>&emsp;+ Trang quản lý sách <br>&emsp;+ Trang quản lý độc giả <br>&emsp;+ Trang quản lý mượn trả | 02/07/2026 | 02/07/2026 | Thảo luận nhóm |
+| 6 | - Review lại yêu cầu hệ thống cùng nhóm <br> - Điều chỉnh phạm vi chức năng và chuẩn bị cho giai đoạn thiết kế giao diện, phát triển Frontend | 03/07/2026 | 03/07/2026 | Thảo luận nhóm |
 
 ### Kết quả đạt được tuần 4:
 

@@ -16,11 +16,11 @@ pre: " <b> 1.7. </b> "
 
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - Khởi tạo GitHub Repository cùng nhóm <br> - Thiết lập nhánh phát triển và quy trình quản lý source code <br> - Kiểm tra Docker Desktop, xác định vấn đề tương thích và thống nhất phương án chạy local <br> - Dựng môi trường phát triển và kiểm tra khả năng chạy dự án trên máy cá nhân | 20/07/2026 | 20/07/2026 | Team Discussion |
-| 3 | - Debug lỗi ảnh bìa sách không hiển thị <br> - Phối hợp bổ sung field lưu link ảnh vào model và xử lý lỗi migration phát sinh <br> - Sửa lỗi script import dữ liệu CSV | 21/07/2026 | 21/07/2026 | |
-| 4 | - Hoàn thiện giao diện hệ thống <br> - Thực hiện: <br>&emsp;+ Điều chỉnh màu sắc, viền card sách <br>&emsp;+ Debug lỗi modal xác nhận xóa không hoạt động do xung đột stacking context CSS | 22/07/2026 | 22/07/2026 | |
-| 5 | - Phát triển giao diện tính năng "Sửa mức phí phạt" <br> - Thực hiện: <br>&emsp;+ Xây dựng trang danh sách tiền phạt <br>&emsp;+ Xây dựng form cập nhật mức phí <br>&emsp;+ Kiểm tra xử lý dữ liệu khi thay đổi mức phí | 23/07/2026 | 23/07/2026 | |
-| 6 | - Hoàn thiện các giao diện Frontend được phân công <br> - Kiểm tra hiển thị dữ liệu và khả năng tương thích giữa các trang <br> - Tham gia Sprint Review báo cáo tiến độ | 24/07/2026 | 24/07/2026 | Team Discussion |
+| 2 | - Khởi tạo GitHub Repository cùng nhóm <br> - Thiết lập nhánh phát triển và quy trình quản lý source code <br> - Kiểm tra Docker Desktop, xác định vấn đề tương thích và thống nhất phương án chạy local <br> - Dựng môi trường phát triển và kiểm tra khả năng chạy dự án trên máy cá nhân | 20/07/2026 | 20/07/2026 | Thảo luận nhóm |
+| 3 | - Debug lỗi ảnh bìa sách không hiển thị <br> - Phối hợp bổ sung field lưu link ảnh vào model và xử lý lỗi migration phát sinh <br> - Sửa lỗi script import dữ liệu CSV | 21/07/2026 | 21/07/2026 | Thảo luận nhóm |
+| 4 | - Hoàn thiện giao diện hệ thống <br> - Thực hiện: <br>&emsp;+ Điều chỉnh màu sắc, viền card sách <br>&emsp;+ Debug lỗi modal xác nhận xóa không hoạt động do xung đột stacking context CSS | 22/07/2026 | 22/07/2026 | Thảo luận nhóm |
+| 5 | - Phát triển giao diện tính năng "Sửa mức phí phạt" <br> - Thực hiện: <br>&emsp;+ Xây dựng trang danh sách tiền phạt <br>&emsp;+ Xây dựng form cập nhật mức phí <br>&emsp;+ Kiểm tra xử lý dữ liệu khi thay đổi mức phí | 23/07/2026 | 23/07/2026 | Thảo luận nhóm |
+| 6 | - Hoàn thiện các giao diện Frontend được phân công <br> - Kiểm tra hiển thị dữ liệu và khả năng tương thích giữa các trang <br> - Tham gia Sprint Review báo cáo tiến độ | 24/07/2026 | 24/07/2026 | Thảo luận nhóm |
 
 ### Kết quả đạt được tuần 7:
 
