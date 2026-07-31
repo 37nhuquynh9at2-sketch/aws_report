@@ -20,7 +20,7 @@ pre: " <b> 1.8. </b> "
 | 3 | - Kiểm tra hoạt động của giao diện Frontend sau khi triển khai <br> - Thực hiện: <br>&emsp;+ Kiểm tra hiển thị các trang chức năng <br>&emsp;+ Kiểm tra kết nối dữ liệu từ Backend <br>&emsp;+ Xử lý các lỗi giao diện phát sinh | 28/07/2026 | 28/07/2026 | Thảo luận nhóm |
 | 4 | - Tham gia kiểm thử tích hợp hệ thống <br> - Thực hiện: <br>&emsp;+ Kiểm tra các chức năng chính trên giao diện <br>&emsp;+ Ghi nhận và hỗ trợ xử lý lỗi phát sinh | 29/07/2026 | 29/07/2026 | Thảo luận nhóm |
 | 5 | - Kiểm tra lại giao diện và chức năng Frontend sau khi sửa lỗi <br> - Điều chỉnh một số thành phần giao diện để đảm bảo tính ổn định | 30/07/2026 | 30/07/2026 | Thảo luận nhóm |
-| 6 | - Chuẩn bị nội dung báo cáo và demo hệ thống <br> - Thực hiện: <br>&emsp;+ Kiểm tra mã nguồn Frontend <br>&emsp;+ Hoàn thiện tài liệu cá nhân | 31/07/2026 | 31/07/2026 | Thảo luận nhóm |
+| 6 | - Chuẩn bị nội dung báo cáo <br> - Thực hiện: <br>&emsp;+ Kiểm tra mã nguồn Frontend <br>&emsp;+ Hoàn thiện tài liệu cá nhân | 31/07/2026 | 31/07/2026 | Thảo luận nhóm |
 
 ### Kết quả đạt được tuần 8:
 
