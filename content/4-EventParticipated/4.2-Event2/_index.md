@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-
-# Report: “Cloud Architect”
-
 ### Event Objectives
 
 - Provide an engaging technology playground through a competitive AWS quiz competition that encourages active learning and teamwork.

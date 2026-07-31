@@ -6,9 +6,6 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-
-# Bài thu hoạch “Cloud Architect”
-
 ### Mục Đích Của Sự Kiện
 
 - Mang lại sân chơi công nghệ mới mẻ dưới hình thức thi đấu trắc nghiệm kịch tính, giúp gắn kết các thành viên và duy trì tinh thần chủ động học hỏi.
