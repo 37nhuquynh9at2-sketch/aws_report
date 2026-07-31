@@ -62,7 +62,7 @@ DynamoDB is particularly suitable for systems with heavy traffic, automatic scal
 - Understood the concept of designing data models based on Access Patterns rather than using JOIN operations as in relational databases.
 - Learned about DynamoDB's automatic scaling capabilities and high-performance architecture for modern applications.
 
-#### Event Photos
+## Event Photos
 
 ![](/images/3-BlogsPosted/blog1.jpg)
 

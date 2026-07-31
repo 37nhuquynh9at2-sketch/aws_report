@@ -60,7 +60,7 @@ DynamoDB đặc biệt phù hợp với các hệ thống có lưu lượng truy
 - Nắm được tư duy thiết kế dữ liệu theo Access Pattern thay vì sử dụng JOIN như cơ sở dữ liệu quan hệ.
 - Hiểu được khả năng mở rộng tự động và hiệu năng cao của DynamoDB trong các ứng dụng hiện đại.
 
-#### Hình ảnh bài đăng
+## Hình ảnh bài đăng
 
 ![](/images/3-BlogsPosted/blog1.jpg)
 

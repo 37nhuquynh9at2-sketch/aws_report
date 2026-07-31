@@ -66,7 +66,7 @@ Giải pháp này đặc biệt phù hợp với các hệ thống yêu cầu t�
 - Giảm thiểu thao tác thủ công nhờ Infrastructure as Code.
 - Nâng cao khả năng bảo vệ dữ liệu và tối ưu chi phí vận hành.
 
-#### Hình ảnh bài đăng
+## Hình ảnh bài đăng
 
 ![](/images/3-BlogsPosted/blog3.jpg)
 

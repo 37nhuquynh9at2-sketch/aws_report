@@ -66,7 +66,7 @@ This solution is particularly well suited for systems requiring high availabilit
 - Reduced manual operations through Infrastructure as Code.
 - Improved data protection while optimizing operational costs.
 
-#### Blog Photos
+## Blog Photos
 
 ![](/images/3-BlogsPosted/blog3.jpg)
 

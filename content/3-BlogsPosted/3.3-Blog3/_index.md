@@ -61,7 +61,7 @@ AWS KMS is particularly suitable for systems that require a high level of securi
 - Understood the relationship between **AWS IAM**, **Amazon S3**, and **AWS KMS** in controlling access to encrypted data.
 - Learned how to use **AWS CloudTrail** to monitor and audit encryption key usage.
 
-#### Event Photos
+## Event Photos
 
 ![](/images/3-BlogsPosted/blog2.jpg)
 
