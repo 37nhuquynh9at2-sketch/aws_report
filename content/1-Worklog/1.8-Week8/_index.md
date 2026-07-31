@@ -20,7 +20,7 @@ pre: " <b> 1.8. </b> "
 | 3 | - Test the Frontend interface after deployment <br> - Perform: <br>&emsp;+ Check the display of functional pages <br>&emsp;+ Verify data connection from Backend <br>&emsp;+ Fix arising interface issues | 28/07/2026 | 28/07/2026 | Team Discussion |
 | 4 | - Participate in system integration testing <br> - Perform: <br>&emsp;+ Test main functions on the interface <br>&emsp;+ Record and support fixing arising issues | 29/07/2026 | 29/07/2026 | Team Discussion |
 | 5 | - Recheck Frontend interfaces and functions after bug fixes <br> - Adjust some interface components to ensure stability | 30/07/2026 | 30/07/2026 | Team Discussion |
-| 6 | - Prepare report content and system demo <br> - Perform: <br>&emsp;+ Review Frontend source code <br>&emsp;+ Complete personal documentation | 31/07/2026 | 31/07/2026 | https://cloudjourney.awsstudygroup.com/ |
+| 6 | - Prepare report content and system demo <br> - Perform: <br>&emsp;+ Review Frontend source code <br>&emsp;+ Complete personal documentation | 31/07/2026 | 31/07/2026 | Team Discussion |
 
 ### Results achieved in Week 8:
 
