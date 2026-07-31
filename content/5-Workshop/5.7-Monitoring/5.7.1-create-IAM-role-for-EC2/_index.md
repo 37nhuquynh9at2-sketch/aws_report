@@ -12,7 +12,7 @@ For EC2 to be able to send logs and metrics to CloudWatch, the instance needs to
 
 1. Go to **IAM Console** → **Roles**, click **Create role**.
 
-![iam-role-create-role](/images/5-Workshop/5.7-Monitoring/5.7.1-create-IAM-role-for-EC2/iam-roles-create-role.png)
+![iam-roles-create-role](/images/5-Workshop/5.7-Monitoring/5.7.1-create-IAM-role-for-EC2/iam-roles-create-role.png)
 
 2. In **Service or use case**, select/type **EC2**.
 3. In **Use case**, select **EC2** (Allows EC2 instances to call AWS services on your behalf), then click **Next**.
