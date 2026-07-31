@@ -18,7 +18,7 @@ Form a project team and determine the role of Frontend Developer in the project.
 
 | Day | Tasks | Start Date | Completion Date | References |
 | --- | --- | --- | --- | --- |
-| 2 | - Get familiar with the First Cloud AI Journey program <br> - Get familiar with team members | 08/06/2026 | 08/06/2026 | First Cloud AI Journey |
+| 2 | - Get familiar with the First Cloud AI Journey program <br> - Get familiar with team members | 08/06/2026 | 08/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 3 | - Create AWS Account <br> - Configure AWS Budgets to monitor usage costs <br> - Learn about AWS Support | 09/06/2026 | 09/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 4 | - Learn about AWS IAM <br> - Practice: <br>&emsp;+ Create IAM User <br>&emsp;+ Create IAM Group <br>&emsp;+ Configure MFA <br>&emsp;+ Learn about IAM Policy | 10/06/2026 | 10/06/2026 | https://cloudjourney.awsstudygroup.com/ |
 | 5 | - Get familiar with AWS Management Console <br> - Discuss project orientation with the team | 11/06/2026 | 11/06/2026 | https://cloudjourney.awsstudygroup.com/ |
