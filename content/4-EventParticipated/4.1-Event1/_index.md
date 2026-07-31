@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Event Report (12/06 - 13/06/2026)
+# Event Report (13/06/2026)
 
 ## Purpose of the Event
 

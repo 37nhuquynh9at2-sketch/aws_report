@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Báo cáo sự kiện (12/06 - 13/06/2026)
+# Báo cáo sự kiện (13/06/2026)
 
 ## Mục Đích Của Sự Kiện
 
