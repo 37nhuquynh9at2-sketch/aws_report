@@ -6,10 +6,9 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+During my internship in the First Cloud AI Journey (FCJ Workforce) program from June 1, 2026 to July 31, 2026, I had the opportunity to learn fundamental AWS concepts while actively participating in the development of a real-world team project, the Library Management Website, as a Frontend Developer.
 
-In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
+I was responsible for designing and implementing the entire user interface of the system, including the book listing page, book details page, borrowing and returning management, user management pages, and resolving issues that arose during data integration and deployment to the AWS environment. Through this project, I significantly improved my skills in building responsive user interfaces with Django Templates and Bootstrap, debugging and troubleshooting integration issues, and deploying web applications on AWS services such as Amazon EC2, Docker, Amazon RDS, and Amazon S3.
 
 To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
 
