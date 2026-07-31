@@ -38,15 +38,15 @@ Bên cạnh các buổi học chuyên môn, chương trình còn tổ chức nhi
 
 ## Một số câu hỏi khác
 
-### Điều em hài lòng nhất trong quá trình tham gia chương trình
+** Điều em hài lòng nhất trong quá trình tham gia chương trình **
 
 Mình hài lòng vì được học hỏi nhiều kiến thức thực tế thông qua các workshop, sự kiện chuyên môn và các dự án. Chương trình cũng tạo cơ hội để em trao đổi với mentor và các bạn cùng định hướng, giúp em mở rộng kiến thức và kinh nghiệm.
 
-### Điều em mong chương trình có thể cải thiện
+** Điều em mong chương trình có thể cải thiện **
 
 Em mong chương trình có thêm nhiều hoạt động giao lưu giữa học viên và các anh chị trong ngành để mọi người có cơ hội trao đổi kinh nghiệm, mở rộng mối quan hệ và học hỏi lẫn nhau.
 
-### Em có sẵn sàng giới thiệu chương trình cho bạn bè không?
+** Em có sẵn sàng giới thiệu chương trình cho bạn bè không? **
 
 Có. Em sẵn sàng giới thiệu First Cloud AI Journey cho bạn bè vì đây là chương trình mang lại nhiều kiến thức thực tế, cơ hội học hỏi từ các chuyên gia và môi trường cộng đồng rất tích cực. Chương trình không chỉ giúp nâng cao kiến thức chuyên môn mà còn hỗ trợ học viên phát triển kỹ năng mềm và định hướng nghề nghiệp rõ ràng hơn.
 
@@ -54,9 +54,8 @@ Có. Em sẵn sàng giới thiệu First Cloud AI Journey cho bạn bè vì đâ
 
 ## Đề xuất và mong muốn
 
-- Tiếp tục tổ chức thêm nhiều workshop và seminar với sự tham gia của các chuyên gia trong lĩnh vực Cloud, AI và DevOps.
-- Mở rộng thêm các dự án thực tế để học viên có cơ hội áp dụng kiến thức đã học vào quá trình phát triển sản phẩm.
-- Tăng cường các hoạt động kết nối giữa mentor, doanh nghiệp và học viên nhằm tạo thêm nhiều cơ hội học hỏi và phát triển nghề nghiệp.
-- Duy trì và phát triển cộng đồng First Cloud AI Journey để các học viên sau khi hoàn thành chương trình vẫn có thể tiếp tục trao đổi kiến thức và hỗ trợ lẫn nhau.
+- Cập nhật thường xuyên các tài liệu học tập theo những dịch vụ và công nghệ mới của AWS.
+- Tăng cường các hoạt động giao lưu giữa học viên, mentor và doanh nghiệp để mở rộng cơ hội học hỏi.
+- Xây dựng một kênh tổng hợp tài liệu, video và nội dung của các buổi workshop để học viên dễ dàng xem lại khi cần.
 
-Nhìn chung, First Cloud AI Journey là một chương trình mang lại nhiều giá trị cả về kiến thức chuyên môn lẫn kỹ năng thực tế. Những trải nghiệm trong suốt quá trình tham gia chương trình đã giúp em hiểu rõ hơn về lĩnh vực Cloud Computing, AI và DevOps, đồng thời tạo động lực để em tiếp tục học tập, nghiên cứu và phát triển bản thân trong tương lai.
+Nhìn chung, chương trình đã mang đến cho em nhiều trải nghiệm bổ ích và giúp em mở rộng kiến thức về Cloud Computing, AI cũng như định hướng nghề nghiệp. Em hy vọng chương trình sẽ tiếp tục phát triển để hỗ trợ nhiều học viên hơn trong tương lai.
